@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">~Welcome to my world 👋🏽</h1>
 
-<!--
-**juanferrgiraldo/juanferrgiraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<section>
+  <p align="center">The ✨wonderful world✨ of frontend 🌈</p>
+  <div align="right">
+    <p>...and a bit of backend, DevOps & ML too 🙈</p>
+  </div>
+</section>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+
+- 🤓 I’m currently mastering the web developer's holy trinity
+- 🫱🏽‍🫲🏾 I’m looking to collaborate on JS-based open source projects
+- 💬 Ask me about anything, I enjoy talking
+- ⚡ Fun fact: I met the penguins 🐧 but it wasn't in the ice 🏖️
+- 🥝 Love eating fruits 🍌
+
+<hr>
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-fernando-giraldo-cardona-juanferrgiraldo/?locale=en_US" rel="nofollow" target="_blank">LinkedIn</a>
+  <span>💛</span>
+  <a href="https://twitter.com/juanferrgiraldo" rel="nofollow" target="_blank">Twitter</a>
+</div>
